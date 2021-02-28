@@ -1,0 +1,2 @@
+# guru
+python file
